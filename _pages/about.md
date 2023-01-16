@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Atanas Dinev and I am first-year Ph.D. student at the Operations Research Center at MIT, where I am advised by Prof. Thodiris Lykouris. Previously, I graduated magna cum laude from Princeton University with a degree in Mathematics. At Princeton, I worked with Prof. Matt Weinberg on projects in Incentive Compatible Tournament design and Algorithms Under Uncertainty. 
+Welcome to my homepage! My name is Atanas Dinev and I am first-year Ph.D. student at the Operations Research Center at MIT, where I am advised by Prof. Thodoris Lykouris. Previously, I graduated magna cum laude from Princeton University with a degree in Mathematics. At Princeton, I worked with Prof. Matt Weinberg on projects in Incentive Compatible Tournament design and Algorithms Under Uncertainty. 
 
 Papers
 ======
